@@ -1,0 +1,48 @@
+from the Desert
+from the East
+from the North
+from the Sea
+from the South
+from the West
+of Aarlington
+of Abbadon
+of Agathe
+of Antake
+of Ardour
+of Arendale
+of Death
+of Eventide
+of Farkirk
+of Florinel
+of Gotherdam
+of Grimmsport
+of Grind
+of Hammerfest
+of Helsingford
+of Jericho
+of Karke
+of Lunaris
+of Lux Aria
+of Maanshine
+of Mellanslag
+of Mercy
+of Mortevelt
+of Nestbury
+of Ravengard
+of Skarsberg
+of Somberberg
+of St. Saelon
+of The Citadel
+of The East
+of The Heartlands
+of The North
+of The Sea
+of The South
+of The Stars
+of The Vale
+of The Wastes
+of The West
+of The Wilds
+of Tryndon
+of Valenkreutz
+of Vastera
