@@ -1,4 +1,13 @@
-with open('C:/Users/lucia/Documents/namegen/corpus.txt', 'r', encoding='utf-8') as file:
+import os
+import random
+
+# Get the directory path of the script
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Construct the file path for "corpus.txt"
+corpus_file_path = os.path.join(script_dir, 'corpus.txt')
+
+with open(corpus_file_path, 'r', encoding='utf-8') as file:
     corpus = file.readlines()
 
 first_halves = []

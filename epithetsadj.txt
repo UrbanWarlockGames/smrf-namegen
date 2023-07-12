@@ -1,5 +1,6 @@
 Ancient
 Benevolent
+Best
 Black
 Blue
 Brilliant
@@ -20,6 +21,7 @@ Giant
 Glorious
 Golden
 Grand
+Greatest
 Green
 Grey
 Heroic
@@ -35,6 +37,7 @@ Loyal
 Mad
 Majestic
 Marble
+Merciful
 Mighty
 Misty
 Noble
@@ -55,6 +58,7 @@ Steadfast
 Thundering
 Valiant
 Victorious
+Vulgar
 White
 Wicked
 Wise
