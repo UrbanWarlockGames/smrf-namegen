@@ -2,7 +2,7 @@ a'ne|marys
 aa|trox
 abel|la
 abi|gail
-abru|uño
+abru|unyo
 ab|bé
 adal|bert
 ad|am
@@ -120,7 +120,7 @@ bra|m
 bra|n
 bra|nwen
 bra|um
-bra|ña
+bra|nya
 bre|gil
 bre|ixo
 bre|ixos
@@ -144,7 +144,7 @@ cali|gura
 cal|lows
 cami|lle
 cam|isa
-cam|iño
+cam|inyo
 can|ga
 can|to
 caro|line
@@ -540,7 +540,7 @@ ma|y
 medi|vh
 meh|rune
 men|ja
-men|niño
+men|ninyo
 merc|urio
 merc|ury
 mer|cer
@@ -554,8 +554,8 @@ mil|io
 miri|el
 mis|lav
 mis|ta
-mi|ñoca
-mi|ñoca
+mi|nyoca
+mi|nyoca
 mj|oll
 moe|hoen
 mog|durz
