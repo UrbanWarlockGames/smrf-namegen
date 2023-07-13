@@ -27,6 +27,7 @@ Eagle
 Elephant
 Enchanter
 Exile
+Explorer
 Falcon
 Farmer
 Fencer

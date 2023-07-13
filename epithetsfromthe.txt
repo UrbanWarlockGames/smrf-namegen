@@ -1,4 +1,4 @@
-                                                    from the Desert
+from the Desert
 from the East
 from the North
 from the Pit
@@ -40,7 +40,9 @@ of The Wastes
 of Tryndon
 of Valenkreutz
 of Vastera
+of the Ashlands
 of the Clouds
+of the Deadlands
 of the East
 of the Isles
 of the Mountains
