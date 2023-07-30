@@ -1,0 +1,1 @@
+pyinstaller --onefile --add-data "corpus.txt;." --add-data "epithetsadj.txt;." --add-data "epithetscorpus.txt;." --add-data "epithetsfromthe.txt;." --add-data "epithetsnouns.txt;." --add-data "smrf.ico;." --icon smrf.ico --name smrfnamegen merged44.py

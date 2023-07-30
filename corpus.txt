@@ -1,5 +1,6 @@
 a'ne|marys
 aa|trox
+ab'|naki
 abel|la
 abi|gail
 abru|unyo
@@ -148,6 +149,7 @@ buck|man
 bus|to
 bu|se
 by|leth
+c'|morra
 caeles|trasz
 cae|sar
 cai|us
@@ -222,6 +224,7 @@ cur|ro
 cyn|ric
 c|thun
 cóma|ro
+d'ar|tagne
 d'|arby
 dai|ba
 dami|aan
@@ -791,6 +794,7 @@ sam|iar
 san|guine
 sap|phron
 sarin|né
+sar|gón
 sar|this
 saul|den
 sau|ron
